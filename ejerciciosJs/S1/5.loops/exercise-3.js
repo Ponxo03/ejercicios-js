@@ -1,8 +1,8 @@
-for (let i = 0 ; i <= 10 ;i++){
-    if(i === 10){
-        console.log("Intentado dormir")
+for (let i = 0 ; i < 10 ;i++){
+    if(i === 9){
+        console.log("dormido")
     }
     else{
-        console.log("Dormido")
+        console.log(" intentado dormir")
     }
 } 

@@ -6,7 +6,9 @@ Haz varios ejemplos y compruebalos.
 Sugerencia de función:
 
 ```js
-function findArrayIndex(array, text) {}
+function findArrayIndex(array, text) {
+    
+}
 ```
 
 Ej array:

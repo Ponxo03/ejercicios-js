@@ -1,6 +1,6 @@
 Usa un foin para imprimir por consola los datos del alienigena.
 ```js
-const alien = {
+onst alien = {
     name: 'Wormuck',
     race: 'Cucusumusu',
     planet: 'Eden',

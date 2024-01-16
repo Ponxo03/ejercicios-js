@@ -1,6 +1,6 @@
 Basandote en el siguiente html, elimina todos los nodos que tengan la clase .fn-remove-me
 
-```html
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -9,7 +9,7 @@ Basandote en el siguiente html, elimina todos los nodos que tengan la clase .fn-
     <title>Document</title>
 </head>
 <body>
-   <p class="fn-remove-me">Eliminame!</p>
+   <p class=Basandote en el siguiente html, elimina todos los nodos que tengan la clase .fn-remove-me>Eliminame!</p>
    <p>No me elimines!</p>
    <p>No me elimines!</p>
    <p class="fn-remove-me">Eliminame!</p>
@@ -18,4 +18,4 @@ Basandote en el siguiente html, elimina todos los nodos que tengan la clase .fn-
    <p class="fn-remove-me">Eliminame!</p>
    <p>No me elimines!</p>
 </body>
-</html>```
+</html>
